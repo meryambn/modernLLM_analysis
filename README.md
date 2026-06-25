@@ -257,7 +257,7 @@ Each notebook performs:
 A complete research report describing the methodology, experiments, results, and discussion is available in
 
 ```
-report/report.pdf
+llm_analysis.pdf
 ```
 
 ---
@@ -275,25 +275,15 @@ Possible extensions include:
 
 ---
 
-## Citation
 
-If you use this repository, please cite:
-
-```
-Meryam XXXXX.
-Contextual Representation Geometry in Transformer Language Models.
-2026.
-```
-
----
 
 ## Author
 
-**Meryam**
+**Benalia Meriem**
 
 Machine Learning • Natural Language Processing • Representation Learning
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/bn_meghiem
+LinkedIn: https://linkedin.com/in/Benalia Meriem
 
 ---
